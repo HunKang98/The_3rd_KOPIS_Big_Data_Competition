@@ -17,6 +17,8 @@
   - <b>공모전 사이트</b> : https://www.kopis.or.kr/por/cs/notice/csNoticeListView.do?ntt_id=2752&listCurPage=1&srchType=subject&srchText=&menuId=MNU_000104
 
 ## 분석 배경 및 프로세스
+- <b>프로젝트 명</b>
+유전 알고리즘을 활용한 공연 스케줄 최적화
 - <b>분석 배경</b>
   - 2022년 공연시장은 코로나 전보다 39% 성장했고, 최적화된 공연 스케줄은 시장의 지속적 성장을 지원할 것으로 기대됨
   - 본 프로젝트는 머신러닝 모델을 활용해 공연의 좌석 점유율을 예측하고, 유전 알고리즘으로 최적의 공연 스케줄을 구성하여 좌석 점유율을 극대화함
